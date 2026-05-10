@@ -50,4 +50,4 @@ python regex_fsm.py
 ## Приклади запусків
 
 ### a*4.+hi
-<img width="1569" height="134" alt="image" src="https://github.com/user-attachments/assets/739bb40a-9884-4784-9301-4762f27bd22e" />
+<img width="1573" height="124" alt="image" src="https://github.com/user-attachments/assets/310d1a67-6cf3-4675-b17c-6c8dbda5a196" />
